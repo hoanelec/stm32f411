@@ -1,0 +1,6 @@
+Uart.c:2:6:SendUnsignedNumber	24	static
+Uart.c:8:6:SendUnsignedNumberLn	24	static
+Uart.c:16:6:SendConstChar	16	static
+Uart.c:21:6:SendConstCharLn	16	static
+Uart.c:27:6:SendFloat	32	static
+Uart.c:36:6:SendFloatLn	80	static

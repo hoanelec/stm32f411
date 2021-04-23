@@ -1,0 +1,3 @@
+PWM.c:2:6:setDutyCycle	8	static
+PWM.c:6:9:getDutyCycle	8	static
+PWM.c:10:9:getInputPulseFreq	8	static
